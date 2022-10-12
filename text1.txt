@@ -1,0 +1,4 @@
+Acest text este pt verificarea fisierului text1.txt.
+Verificam modificarea facuta!
+Facem inca o verificare
+
