@@ -8,3 +8,7 @@ Am adaugat acest text: Start GIT
 Acum modificam cand suntem pe branch_nou_1
 facem  - git add . 
 facem  - git commit -m "Pe acest branch nou"
+
+
+
+Si acum ne intoarcem pe master
