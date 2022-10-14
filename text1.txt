@@ -6,6 +6,7 @@ Azi 14.10.2022 am facut o mdoficiare in fisier
 Am adaugat acest text: Start GIT
 
 Acum modificam cand suntem pe branch_nou_1
+<<<<<<< HEAD
 facem - git add . 
 facem - git commit -m "Pe acest branch nou 1" 
 
@@ -17,3 +18,12 @@ facem - git add .
 facem - git commit -m "Pe acest branch nou 2"
 facem - git push
 Si apoi verifican in github ce se gaseste
+=======
+facem  - git add . 
+facem  - git commit -m "Pe acest branch nou"
+
+Pt ca ma plictisesc rau de tot am decis sa ma mut pe branch_nou_1 si sa dau acolo o petrecere
+
+Vad ca nu gasesc textul tiparit anterior pe aceasgta foaie
+Sa cautam 
+>>>>>>> branch_nou_1
