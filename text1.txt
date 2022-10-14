@@ -2,3 +2,6 @@ Acest text este pt verificarea fisierului text1.txt.
 Verificam modificarea facuta!
 Facem inca o verificare
 
+Azi 14.10.2022 am facut o mdoficiare in fisier
+Am adaugat acest text: Start GIT
+
