@@ -6,9 +6,14 @@ Azi 14.10.2022 am facut o mdoficiare in fisier
 Am adaugat acest text: Start GIT
 
 Acum modificam cand suntem pe branch_nou_1
-facem  - git add . 
-facem  - git commit -m "Pe acest branch nou"
-
-
+facem - git add . 
+facem - git commit -m "Pe acest branch nou 1" 
 
 Si acum ne intoarcem pe master
+
+Pentru ca ne plicitism am creat branch_nou_2
+Scrie aici asta
+facem - git add . 
+facem - git commit -m "Pe acest branch nou 2"
+facem - git push
+Si apoi verifican in github ce se gaseste
