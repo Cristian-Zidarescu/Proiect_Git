@@ -8,3 +8,8 @@ Am adaugat acest text: Start GIT
 Acum modificam cand suntem pe branch_nou_1
 facem  - git add . 
 facem  - git commit -m "Pe acest branch nou"
+
+Pt ca ma plictisesc rau de tot am decis sa ma mut pe branch_nou_1 si sa dau acolo o petrecere
+
+Vad ca nu gasesc textul tiparit anterior pe aceasgta foaie
+Sa cautam 
