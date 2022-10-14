@@ -5,3 +5,4 @@ Facem inca o verificare
 Azi 14.10.2022 am facut o mdoficiare in fisier
 Am adaugat acest text: Start GIT
 
+Acum modificam cand suntem pe branch_nou_1
