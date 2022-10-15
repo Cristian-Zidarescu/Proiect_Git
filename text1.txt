@@ -26,4 +26,11 @@ Pt ca ma plictisesc rau de tot am decis sa ma mut pe branch_nou_1 si sa dau acol
 
 Vad ca nu gasesc textul tiparit anterior pe aceasgta foaie
 Sa cautam 
->>>>>>> branch_nou_1
+
+
+La orele 23.07 ne-am mutata pe branch_nou_2
+facem aici un add .
+facem un commit
+facem un push
+Si apoi incercam sa me mutam pe branch-ul master unde sa facem un meerge
+sa vedem ce iese.
