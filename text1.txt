@@ -27,5 +27,10 @@ Pt ca ma plictisesc rau de tot am decis sa ma mut pe branch_nou_1 si sa dau acol
 Vad ca nu gasesc textul tiparit anterior pe aceasgta foaie
 Sa cautam 
 
+<<<<<<< HEAD
 Azi 15.10.2022 am facut o modificare la orele 22.23
 
+=======
+Am facut o moficiare la orele 20.23 si vad ca nu a luat modificarea.
+Oare de ce?
+>>>>>>> branch_nou_1
