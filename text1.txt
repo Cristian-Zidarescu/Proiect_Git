@@ -11,8 +11,8 @@ facem  - git commit -m "Pe acest branch nou"
 
 Pt ca ma plictisesc rau de tot am decis sa ma mut pe branch_nou_1 si sa dau acolo o petrecere
 
-Vad ca nu gasesc textul tiparit anterior pe aceasgta foaie
-Sa cautam 
+Vad ca nu gasesc textul tiparit anterior pe aceasta foaie
+Sa cautam ce nu merge
 
-Am facut o moficiare la orele 20.23 si vad ca nu a luat modificarea.
+Am facut o modificare la orele 20.23 si vad ca nu a luat modificarea.
 Oare de ce?
